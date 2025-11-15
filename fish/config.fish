@@ -32,6 +32,8 @@ if status is-interactive
     abbr la 'ls -a'
     abbr lla 'ls -la'
 
+    abbr v 'nvim'
+
     # Custom colours
     cat ~/.local/state/caelestia/sequences.txt 2> /dev/null
 
