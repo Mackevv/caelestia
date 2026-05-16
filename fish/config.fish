@@ -42,3 +42,6 @@ if status is-interactive
         echo -en "\e]133;A\e\\"
     end
 end
+
+# Created by `pipx` on 2026-02-10 10:42:59
+set PATH $PATH /home/ratonz/.local/bin
